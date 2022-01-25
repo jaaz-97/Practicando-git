@@ -1,7 +1,7 @@
 # Practicando-git
 Prácticas del curso de EDteam
 
-#Archivos
+# Archivos
 
 
-#Carpetas
+# Carpetas
